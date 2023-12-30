@@ -6,9 +6,11 @@ MANNEPALLI KRISHNAKUMAR
 
 
 CAREER OBJECTIVE 
+
 Seeking an entry-level DevOps position with a focus on AWS. Eager to apply my technical skills and hands-on experience to contribute to the optimized execution of software development and release processes.
 
 EDUCATION
+
 Bachelor of Computer Science                                                                                                                                  •Vikram Simhapuri University, Nellore                                                                                                    March 2017 – November 2021
 
 Board of Intermediate Education 
@@ -18,6 +20,7 @@ Board of Intermediate Education
 
 
 TECHNICAL SKILLS 
+
 •	Build and Deployment Tools: Maven, Nexus, SonarQube
 •	Containerization and Orchestration: Docker, Kubernetes
 •	Continuous Integration and Continuous Deployment: Jenkins
@@ -27,6 +30,7 @@ TECHNICAL SKILLS
 •	Version Control: GitHub
 
 ACADEMIC PROJECTS
+
 Automated Deployment Pipeline with AWS Integration                                                            June 2023 – August 2023      
 •	Engineered and executed an end-to-end automated deployment pipeline utilizing Jenkins, Docker, and AWS services.
 •	Achieved a remarkable 40% reduction in deployment time, optimizing the release process and elevating overall project efficiency.
@@ -38,7 +42,9 @@ Scalable Microservices Architecture with AWS Kubernetes Service                 
 •	Engineered auto-scaling mechanisms and load balancing, culminating in reduction in infrastructure costs and heightened system responsiveness.
 •	Achieved 99.99% availability through strategic use of AWS Kubernetes Service and thorough implementation of fault-tolerant measures.
 •	Optimized performance and reduced idle resources by 20%, lowering associated costs.
+
 CERTIFICATIONS
+
 •	Earned DevOps Certification – Ashokit Training                                                                                                             Note: The Career Gap Period is 2 Years, Due to took responsibility on my family bussiness                                                                                                    
 
 
